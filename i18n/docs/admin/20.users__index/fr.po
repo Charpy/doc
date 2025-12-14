@@ -32,7 +32,7 @@ msgstr "Comptes"
 #: docs/admin/20.users/index.mdx:8
 #, no-wrap
 msgid "Users are human being who have access to applications and other services on your server. The administrator can add and manage users through the web administration (in the User category) or through the command line (see `yunohost user --help`). After that, users obtain a personal email address (chosen by the admin), and can log in the user portal to access applications they have permissions over and configure other parameters.\n"
-msgstr "Les comptes des correspondent aux êtres humains qui ont accès aux applications et autres services sur votre serveur. L'administrateur peut ajouter et gérer des comptes via l'administration web (dans la catégorie Utilisateurs) ou via la catégorie `yunohost user` de la ligne de commande. Après cela, les utilisateurs obtiennent une adresse e-mail personnelle (choisie par l'administrateur), et peuvent se connecter au portail utilisateur (SSO) pour accéder aux applications pour lesquelles ils ont des permissions et configurer d'autres paramètres.\n"
+msgstr "Les comptes correspondent aux êtres humains qui ont accès aux applications et autres services sur votre serveur. L'administrateur peut ajouter et gérer des comptes via l'administration web (dans la catégorie Utilisateurs) ou via la catégorie `yunohost user` de la ligne de commande. Après cela, les utilisateurs obtiennent une adresse e-mail personnelle (choisie par l'administrateur), et peuvent se connecter au portail utilisateur (SSO) pour accéder aux applications pour lesquelles ils ont des permissions et configurer d'autres paramètres.\n"
 
 #. type: Plain text
 #: docs/admin/20.users/index.mdx:10
